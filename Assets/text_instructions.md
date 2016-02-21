@@ -8,7 +8,6 @@ Ingredients:
 - An awl to punch holes
 - A pair of large and emasculating leather sewing needles for the...
 - Thick waxed thread
-- 
 
 The original construction was three piece. You could do it in two, but with three you can have the top grain face under the razor and head, so it will slide in and out more easily.
 
@@ -18,7 +17,6 @@ You've got three pieces to cut:
 - Exterior Face (6"x3")
 - Interior Center Back (2"x3")
 - Strap (5.25"x2")
-- 
 
 You may have to fudge those numbers a bit larger or smaller depending on the thickness of the leather you use. For notes, those numbers are for 6 oz leather on the "Exterior Face" piece, and 3-4 oz on the others.
 
